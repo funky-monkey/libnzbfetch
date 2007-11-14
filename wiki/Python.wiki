@@ -1,5 +1,5 @@
 #summary Example of the Python bindings
-#labels Featured,Python
+#labels Featured
 
 {{{
 #!/usr/bin/env python
@@ -44,6 +44,4 @@ while 1:
     time.sleep(1)
 
 }}}
-
-
 
